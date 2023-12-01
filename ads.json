@@ -1,0 +1,38 @@
+{
+  "Ads":{
+    "ShowAds":true,
+    "ShowLoadingAds":true,
+    "ClickCount":1,
+    "PriorityBanner":"max",
+    "priorityInterstitial":"max",
+    "PriorityNative":"max",
+    "PriorityReward":"max",
+    "IronAppKey":"xxxxxxxx",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"",
+    "TopOnAppKey":"xxxxxxxx",
+    "TopOnAppID":"xxxxxxxx",
+    "TopOnBanner":"xxxxxxxx",
+    "TopOnInterstitial":"xxxxxxxx",
+    "TopOnNative":"xxxxxxxx",
+    "TopOnReward":"xxxxxxxx",
+    "MaxBanner":"xxxxxxxx",
+    "MaxInterstitial":"xxxxxxxx",
+    "MaxNative":"xxxxxxxx",
+    "MaxReward":"",
+    "FanBanner":"",
+    "FanInterstitial":"",
+    "FanNative":""
+  },
+  "ControlApp":{
+    "ShowFootballScoresWarning":false,
+    "ShowCricketSCoresWarning":false,
+    "PlayerPackageName":"com.gpt.ysfplayer",
+    "OnesignalID":"",
+    "ShowUpdate":true,
+    "UpdateVersion":1,
+    "UpdateLink":"https://google.com"
+    
+    }
+}
